@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "mssql2": {
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/servidorcolegio/databases/basecolegio",
+      "type": "mssql.azure",
+      "connectionId": "servidorcolegio.database.windows.net",
+      "dynamicId": null
+    }
+  }
+}

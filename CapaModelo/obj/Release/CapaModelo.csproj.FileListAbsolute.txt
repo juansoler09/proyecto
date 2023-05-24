@@ -1,0 +1,12 @@
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaModelo\bin\Release\CapaModelo.dll
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaModelo\bin\Release\CapaModelo.pdb
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.dll
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.pdb
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaModelo\bin\Release\CapaModelo.dll
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaModelo\bin\Release\CapaModelo.pdb
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaModelo\obj\Release\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaModelo\obj\Release\CapaModelo.dll
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaModelo\obj\Release\CapaModelo.pdb

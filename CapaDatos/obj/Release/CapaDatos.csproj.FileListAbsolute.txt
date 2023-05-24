@@ -1,0 +1,18 @@
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaDatos\bin\Release\CapaModelo.dll
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaDatos\bin\Release\CapaModelo.pdb
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaDatos\obj\Release\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaDatos\obj\Release\CapaDatos.csproj.CopyComplete
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\juanda\Downloads\018_WEB_COLEGIO_MVC (1)\ProyectoWeb\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaDatos\bin\Release\CapaModelo.dll
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaDatos\bin\Release\CapaModelo.pdb
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaDatos\obj\Release\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaDatos\obj\Release\CapaDatos.csproj.CopyComplete
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\juanda\Desktop\ProyectoJuanDavidSoler\CapaDatos\obj\Release\CapaDatos.pdb
